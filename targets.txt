@@ -1,0 +1,7 @@
+# Lista de hosts para escanear.
+# Um host por linha
+# Exemplos: google.com, github.com, localhost, 192.168.1.1
+
+google.com
+github.com
+localhost
