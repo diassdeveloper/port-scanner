@@ -6,7 +6,7 @@ A Python script that scans common ports on a list of hosts and reports which one
 
 Reads hosts from `targets.txt` and attempts to connect to the most common ports using TCP sockets. Reports open ports for each host.
 
-## Scanned ports
+## Scanned portsgit
 
 21 (FTP), 22 (SSH), 23 (Telnet), 25 (SMTP), 53 (DNS), 80 (HTTP), 110 (POP3), 143 (IMAP), 443 (HTTPS), 3306 (MySQL), 5432 (PostgreSQL), 8080 (HTTP Alt), 8443 (HTTPS Alt)
 
